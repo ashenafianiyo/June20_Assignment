@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ice Cream Flavors</title>
+</head>
+<body>
+  <h1>Welcome to the Ice Cream Shop!</h1>
+  <ul>
+    <li>Vanilla</li>
+    <li>Chocolate</li>
+    <li>Strawberry</li>
+    <li>Mint Chocolate Chip</li>
+    <li>Cookie Dough</li>
+  </ul>
+</body>
+</html>

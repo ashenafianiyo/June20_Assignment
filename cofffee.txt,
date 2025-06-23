@@ -1,2 +1,17 @@
 
 <!DOCTYPE html>
+<html>
+<head>
+  <title>Coffee Menu</title>
+</head> <h1>
+<body>
+  <h1>Welcome to the Coffee Shop</h1>
+  <ul>
+    <li>Espresso</li>
+    <li>Americano</li>
+    <li>Cappuccino</li>
+    <li>Latte</li>
+    <li>Mocha</li>
+  </ul>
+</body>
+</html>

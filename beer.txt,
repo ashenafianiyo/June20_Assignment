@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <h1>
+  <meta charset="UTF-8">
+  <title>Beer List</title>
+</head>
+<body>
+  <h1>Beer List</h1>
+  <ul>
+    <li>Lager</li>
+    <li>IPA</li>
+    <li>Stout</li>
+    <li>Pilsner</li>
+    <li>Porter</li>
+  </ul>
+</body>
+</html>

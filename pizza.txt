@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html ="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Pizza Menu</title>
+</head> <h1>
+<body> <b1>
+  <h1>Welcome to Our Pizza Menu</h1>
+  <ul>
+    <li>Margherita</li>
+    <li>Pepperoni</li>
+    <li>Vegetarian</li>
+    <li>BBQ Chicken</li>
+    <li>Hawaiian</li>
+  </ul>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html ="en">
+<head> <h1>
+  <meta charset="UTF-8">
+  <title>Salad Recipes</title>
+</head> <h2>
+<body>
+  <h1>Delicious Salad Recipes</h1>
+  <ul>
+    <li>Caesar Salad</li>
+    <li>Greek Salad</li>
+    <li>Garden Salad</li>
+    <li>Fruit Salad</li>
+  </ul>
+</body>
+</html>
